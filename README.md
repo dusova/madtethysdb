@@ -1,56 +1,56 @@
 <div align="center">
-<h1>madtethys Database</h1>
+<h1>dusova Database</h1>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=madtethys&repo=madtethysdb&cache_seconds=86400&theme=react)
+![](https://github-readme-stats.vercel.app/api/pin/?username=dusova&repo=dusovadb&cache_seconds=86400&theme=react)
 
-**madtethys Database**, Türkçe, hızlı, güvenilir ve kullanışlı bir açık kaynak kodlu JSON ve YAML veritabanı modülüdür. JavaScript ve TypeScript ile mükemmel uyum sağlar ve npm ile yarn üzerinde kolayca kullanılabilir. Geliştiricilere, en kullanışlı, mantıklı ve hızlı yerel veritabanlarını oluşturma konusunda sonuna kadar yardımcı olmayı amaçlar. Bu proje, herhangi bir kâr amacı gütmeksizin topluluğa katkıda bulunmayı hedefler.
+**dusova Database** is an open-source JSON and YAML database module that is fast, reliable, and useful. It integrates perfectly with JavaScript and TypeScript and can be easily used on npm and yarn. It aims to help developers create the most useful, logical, and fast local databases. This project aims to contribute to the community without any profit motive.
 
-![](https://img.shields.io/npm/l/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/dt/madtethysdb?style=flat-square) ![](https://img.shields.io/bundlephobia/min/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/v/madtethysdb?style=flat-square)<br/>
-![](https://img.shields.io/github/stars/madtethys/madtethysdb?style=social) ![](https://img.shields.io/github/last-commit/madtethys/madtethysdb?style=flat-square)
+![](https://img.shields.io/npm/l/dusovadb?style=flat-square) ![](https://img.shields.io/npm/dt/dusovadb?style=flat-square) ![](https://img.shields.io/bundlephobia/min/dusovadb?style=flat-square) ![](https://img.shields.io/npm/v/dusovadb?style=flat-square)<br/>
+![](https://img.shields.io/github/stars/dusova/dusovadb?style=social) ![](https://img.shields.io/github/last-commit/dusova/dusovadb?style=flat-square)
 
 </div>
 
-## 🎈 Özellikler
-- **NPM ve Yarn Üzerinde**: Hızla kurulum yapın.
-- **Açık Kaynak Kodlu**: Herkes katkıda bulunabilir.
-- **JSON ve YAML Destekli**: Verilerinizi esnek bir şekilde yönetin.
-- **TypeScript Desteği**: Modern yazılım geliştirme için ideal.
-- **Olaylarla Kullanışlı**: Etkileşimli uygulamalar için mükemmel.
-- **Yedekleme Sistemi ile Güvenli**: Verilerinizi koruma altına alın.
-- **Tamamen Türkçe**: Kullanıcı dostu bir deneyim.
+## 🎈 Features
+- **Available on NPM and Yarn**: Install quickly.
+- **Open Source**: Anyone can contribute.
+- **JSON and YAML Supported**: Manage your data flexibly.
+- **TypeScript Support**: Ideal for modern software development.
+- **Event-Driven**: Perfect for interactive applications.
+- **Secure with Backup System**: Protect your data.
+- **Completely in Turkish**: User-friendly experience.
 
-## 🎀 Nasıl Kurulur?
-Modülü indirmek için aşağıdaki araçlara sahip olmalısınız:
+## 🎀 Installation
+To download the module, you must have the following tools:
 
-- Node.js sürüm `14.17.1` ve sonrası
-- Terminal içeren bir çevrimiçi veya yerel düzenleyici
-- Kod kalitenizi artırmak için biraz sevgi 💖 (sürüm 1.0 ve sonrası; içine sevginizi katmalısınız!)
+- Node.js version `14.17.1` or later
+- An online or local editor with a terminal
+- A bit of love to enhance your code quality 💖 (version 1.0 and later; you must add your love!)
 
-Eğer yukarıdaki şartları sağlıyorsanız, modülü kurmak için terminalinize şu komutları yazıp çalıştırmalısınız:
-
-```bash
-npm i madtethysdb@latest
-```
-```bash
-yarn add madtethysdb
-```
-
-> ⚠️ Bu komut, npmjs üzerindeki en son sürümü kurar. Eğer henüz stabil olarak yayınlanmamış olan GitHub sürümünü indirmek isterseniz, aşağıdaki komutları terminalinize yazıp çalıştırmalısınız.
+If you meet the above requirements, you should type and run the following commands in your terminal to install the module:
 
 ```bash
-npm i "https://github.com/madtethys/madtethysdb.git#master"
+npm i dusovadb@latest
 ```
 ```bash
-yarn add https://github.com/madtethys/madtethysdb.git#master
+yarn add dusovadb
 ```
 
-> Komut çalıştırıldıktan sonra paket bir süre indirilecektir. İndirilmesi tamamlandığında, **madtethys Database** tamamen kullanıma hazır hale gelecektir! Hadi başlayın, verilerinizi kolayca yönetin!
+> ⚠️ This command installs the latest version on npmjs. If you want to download the GitHub version that has not yet been released as stable, you should type and run the following commands in your terminal.
 
-## 📝 Katkıda Bulunma:
-> Projeye katkıda bulunmak isterseniz, fork'layabilir ve pull request gönderebilirsiniz. Her türlü katkı ve geri bildirim memnuniyetle karşılanır.
+```bash
+npm i "https://github.com/dusova/dusovadb.git#master"
+```
+```bash
+yarn add https://github.com/dusova/dusovadb.git#master
+```
 
-## 📬 İletişim:
-> Bu proje hakkında sorularınız veya geri bildirimleriniz varsa, [e-posta](mailto:info@mdusova.com) yoluyla veya [LinkedIn](https://linkedin.com/in/mdusova) üzerinden benimle iletişime geçebilirsiniz.
+> After running the command, the package will be downloaded for a while. Once the download is complete, **dusova Database** will be fully ready to use! Start managing your data easily!
 
-## 🛡️ Lisans
-> Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+## 📝 Contributing:
+> If you want to contribute to the project, you can fork it and send a pull request. Any contributions and feedback are welcome.
+
+## 📬 Contact:
+> If you have any questions or feedback about this project, you can contact me via [email](mailto:info@mdusova.com) or [LinkedIn](https://linkedin.com/in/mdusova).
+
+## 🛡️ License
+> This project is licensed under the [Apache License 2.0](LICENSE). For more information, you can review the LICENSE file.
