@@ -5,8 +5,8 @@
 
 **dusova Database** is an open-source JSON and YAML database module that is fast, reliable, and useful. It integrates perfectly with JavaScript and TypeScript and can be easily used on npm and yarn. It aims to help developers create the most useful, logical, and fast local databases. This project aims to contribute to the community without any profit motive.
 
-![](https://img.shields.io/npm/l/dusovadb?style=flat-square) ![](https://img.shields.io/npm/dt/dusovadb?style=flat-square) ![](https://img.shields.io/bundlephobia/min/dusovadb?style=flat-square) ![](https://img.shields.io/npm/v/dusovadb?style=flat-square)<br/>
-![](https://img.shields.io/github/stars/dusova/dusovadb?style=social) ![](https://img.shields.io/github/last-commit/dusova/dusovadb?style=flat-square)
+![](https://img.shields.io/npm/l/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/dt/madtethysdb?style=flat-square) ![](https://img.shields.io/bundlephobia/min/madtethysdb?style=flat-square) ![](https://img.shields.io/npm/v/madtethysdb?style=flat-square)<br/>
+![](https://img.shields.io/github/stars/dusova/dusovadb?style=social) ![](https://img.shields.io/github/last-commit/dusova/dusovdb?style=flat-square)
 
 </div>
 
